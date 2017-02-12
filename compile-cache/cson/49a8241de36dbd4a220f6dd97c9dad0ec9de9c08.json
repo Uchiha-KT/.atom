@@ -1,0 +1,1 @@
+{"context-menu":{"atom-text-editor[data-grammar=\"text html php\"]":[{"label":"Run php-cs-fixer","command":"php-cs-fixer:fix"}]},"menu":[{"label":"Packages","submenu":[{"label":"php-cs-fixer","submenu":[{"label":"Fix","command":"php-cs-fixer:fix"}]}]}]}

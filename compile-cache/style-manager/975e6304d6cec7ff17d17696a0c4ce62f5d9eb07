@@ -1,0 +1,1 @@
+{"source":"#wakatime-status-bar {\n  width: 20px;\n  height: 20px;\n  vertical-align: middle;\n  margin: 0 5px;\n}\n#wakatime-status-bar #wakatime-svg {\n  display: block;\n}\n#wakatime-status-bar #wakatime-svg path {\n  fill: #99aeb8;\n}\n"}

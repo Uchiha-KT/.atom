@@ -1,0 +1,1 @@
+{"source":".atom-html-preview {\n  background-color: #fff;\n  overflow: scroll;\n  box-sizing: border-box;\n  padding: 0;\n}\n.atom-html-preview webview {\n  width: 100%;\n  height: 100%;\n  border: 0;\n}\n"}
