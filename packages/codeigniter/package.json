@@ -1,0 +1,58 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "C:\\Users\\uchiha\\AppData\\Local\\Temp\\d-11714-6116-1tmy0hv\\package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "C:\\Users\\uchiha\\AppData\\Local\\Temp\\d-11714-6116-1tmy0hv\\package.tgz",
+        "spec": "C:\\Users\\uchiha\\AppData\\Local\\Temp\\d-11714-6116-1tmy0hv\\package.tgz",
+        "type": "local"
+      },
+      "C:\\Users\\uchiha\\AppData\\Local\\Temp\\apm-install-dir-11714-6116-1nqf1ex"
+    ]
+  ],
+  "_from": "..\\d-11714-6116-1tmy0hv\\package.tgz",
+  "_id": "codeigniter@0.3.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/codeigniter",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "C:\\Users\\uchiha\\AppData\\Local\\Temp\\d-11714-6116-1tmy0hv\\package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "C:\\Users\\uchiha\\AppData\\Local\\Temp\\d-11714-6116-1tmy0hv\\package.tgz",
+    "spec": "C:\\Users\\uchiha\\AppData\\Local\\Temp\\d-11714-6116-1tmy0hv\\package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:..\\d-11714-6116-1tmy0hv\\package.tgz",
+  "_shasum": "55a314348da1d8a629163fd228c5c2b64aab9747",
+  "_shrinkwrap": null,
+  "_spec": "C:\\Users\\uchiha\\AppData\\Local\\Temp\\d-11714-6116-1tmy0hv\\package.tgz",
+  "_where": "C:\\Users\\uchiha\\AppData\\Local\\Temp\\apm-install-dir-11714-6116-1nqf1ex",
+  "bugs": {
+    "url": "https://github.com/anggriyulio/codeigniter-atom/issues"
+  },
+  "dependencies": {},
+  "description": "Codeigniter snippets for Atom Editor",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=0.174.0"
+  },
+  "homepage": "https://github.com/anggriyulio/codeigniter-atom#readme",
+  "name": "codeigniter",
+  "optionalDependencies": {},
+  "readme": "# Codeigniter Atom\n\nCodeigniter Snippet for Atom Editor\n\n### Installation\nGo to `Atom > Preferences > Install` then search for `codeigniter-atom`. Alternative you can run command \n`apm install codeigniter-atom`\n\n### Contributing\n\n1. Fork it\n2. Create feature branch: `git checkout -b new-feature`\n3. Commit changes: `git commit -m 'Comments'`\n4. Push to the branch: `git push origin new-feature`\n5. Submit pull request\n\n### Snippets\n\n|Trigger|Name|\n| ---- |----|\n|cianchor|Codeigniter Anchor|\n|cicontroller|Codeigniter Controller|\n|cicookie|Codeigniter Fetch Cookie Data|\n|cidbaffected|Database Affected Rows|\n|cidbcount|Database Count All|\n|cidbdelete|Codeigniter AR delete|\n|cidbget|Codeigniter AR Get|\n|cidbgroup|Codeigniter AR group|\n|cidbinsert|Codeigniter AR insert|\n|cidbinsertbatch|Codeigniter AR insert batch|\n|cidbinsertid|Database Insert Id|\n|cidbjoin|Codeigniter AR Join|\n|cidblast|Database last Query|\n|cidblimit|Codeigniter AR limit|\n|cidbload|Codeigniter Load Database|\n|cidbquery|Codeigniter Standard Query|\n|cidbselect|Codeigniter AR select|\n|cidbupdate|Codeigniter AR update|\n|cidbwhere|Codeigniter AR where|\n|ciflash|Flash Data|\n|ciformcheckbox|Form checkbox|\n|ciformclose|Form Close|\n|ciformdropdown|Form dropdown|\n|ciformhidden|Form hidden|\n|ciforminput|Form input|\n|ciformlabel|Form label|\n|ciformopen|Form Open|\n|ciformpass|Form password|\n|ciformsubmit|Form submit|\n|ciformtext|Form text|\n|ciformupload|Form upload|\n|ciget|Codeigniter GET|\n|cigetpost|Codeigniter GET_POST|\n|cilibrary|Codeigniter Library|\n|ciloadhelper|Load helper|\n|ciloadlibrary|Load library|\n|ciloadmodel|Load Model|\n|ciloadview|Load View|\n|cimodel|Codeigniter Model|\n|cipost|Codeigniter POST|\n|ciserver|Codeigniter Fetch Server Data|\n|cisesall|Session All Userdata|\n|cisesdata|Session Userdata|\n|cisesdestroy|Session destroy|\n|cisesset|Session Set Userdata|\n|cisesunset|Session unset userdata|\n|cisetcookie|Set Cookie Data|\n|civalidation|Run set validation|\n|cirun|Run form validation|\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anggriyulio/codeigniter-atom.git"
+  },
+  "version": "0.3.2"
+}

@@ -1,0 +1,65 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "C:\\Users\\uchiha\\AppData\\Local\\Temp\\d-11714-4512-2ks43g\\package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "C:\\Users\\uchiha\\AppData\\Local\\Temp\\d-11714-4512-2ks43g\\package.tgz",
+        "spec": "C:\\Users\\uchiha\\AppData\\Local\\Temp\\d-11714-4512-2ks43g\\package.tgz",
+        "type": "local"
+      },
+      "C:\\Users\\uchiha\\AppData\\Local\\Temp\\apm-install-dir-11714-4512-6s1edw"
+    ]
+  ],
+  "_from": "..\\d-11714-4512-2ks43g\\package.tgz",
+  "_id": "laravel-snippets@2.1.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/laravel-snippets",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "C:\\Users\\uchiha\\AppData\\Local\\Temp\\d-11714-4512-2ks43g\\package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "C:\\Users\\uchiha\\AppData\\Local\\Temp\\d-11714-4512-2ks43g\\package.tgz",
+    "spec": "C:\\Users\\uchiha\\AppData\\Local\\Temp\\d-11714-4512-2ks43g\\package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:..\\d-11714-4512-2ks43g\\package.tgz",
+  "_shasum": "708d6f8331fba9a3de3a19674cf326d0f83825f4",
+  "_shrinkwrap": null,
+  "_spec": "C:\\Users\\uchiha\\AppData\\Local\\Temp\\d-11714-4512-2ks43g\\package.tgz",
+  "_where": "C:\\Users\\uchiha\\AppData\\Local\\Temp\\apm-install-dir-11714-4512-6s1edw",
+  "bugs": {
+    "url": "https://github.com/nmfzone/atom-laravel-snippets/issues"
+  },
+  "dependencies": {},
+  "description": "Laravel code snippets for Atom Text Editor",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">= 1.0.0"
+  },
+  "homepage": "https://github.com/nmfzone/atom-laravel-snippets#readme",
+  "keywords": [
+    "snippets",
+    "laravel",
+    "migration-snippets"
+  ],
+  "license": "MIT",
+  "name": "laravel-snippets",
+  "optionalDependencies": {},
+  "private": false,
+  "readme": "Laravel Snippets for Atom Text Editor\n======\n\n## Features\n  1. Next time :-D\n\n## Why create this\nThe reason is [see it](https://discuss.atom.io/t/php-snippets-not-working/15321) .\n\n## Credits\n  Forked from [Cronos87](https://github.com/Cronos87/atom-laravel) . Thanks for this :))))\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmfzone/atom-laravel-snippets.git"
+  },
+  "version": "2.1.0"
+}
